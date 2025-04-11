@@ -1,0 +1,14 @@
+<!-- code for'about' page -->
+<html>
+   <Welcome>
+	<h2>About Me</h2>
+   </head>
+   <body>
+
+      <p>Hello, My name is Macy. I am 15 years old. I love to mountain bike and compete across the state! I also play lacrosse in the off-season!</p>
+
+
+   </body>
+
+
+</html>
